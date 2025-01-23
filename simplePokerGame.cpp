@@ -14,7 +14,7 @@ void initializeDeck() {
     for (int i = 0; i < 52; i++) {
         DECK[i] = i;
     }
-}
+} 
 
 void shuffleDeck() {
     srand(time(0));
