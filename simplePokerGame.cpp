@@ -1,3 +1,7 @@
+// Caydin Klups
+// Luis Flores 
+// Hemant Kulkarian
+
 #include <iostream>
 #include <string>
 #include <cstdlib>
